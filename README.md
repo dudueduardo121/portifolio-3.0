@@ -1,5 +1,7 @@
 # Portifólio Eduardo 2021 3.0
 
+https://portifolioeduardo2021.netlify.app/
+
 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
 
