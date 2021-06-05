@@ -233,7 +233,7 @@ img{
 .home_img {
     position: absolute;
     right: 0px;
-    bottom: 0;
+    bottom: 40px;
     width: 380px;
 }
 
