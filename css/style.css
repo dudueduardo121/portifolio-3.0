@@ -198,7 +198,8 @@ img{
 
 .home_data {
     align-self: flex-start;
-    padding-top: 4rem;
+    padding-top: 3rem;
+    text-align: center;
 
 }
 .home_title {
@@ -224,11 +225,16 @@ img{
 .home_social_icon:hover {
     color: var(--cor5);
 }
+
+.home {
+    background: var(--cor11);
+}
+
 .home_img {
     position: absolute;
-    right: 0;
+    right: 10px;
     bottom: 0;
-    width: 265px;
+    width: 390px;
 }
 
 .button {
@@ -255,7 +261,7 @@ img{
     justify-self: center;
 }
 .sobre_img img{
-    width: 200px;
+    width: 390px;
     border-radius: .5rem;
 }
 
@@ -433,6 +439,7 @@ img{
 
     .home_data {
         align-self: center;
+        text-align: left;
     }
     .home_social {
         padding-top: 3rem;
